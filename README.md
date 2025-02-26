@@ -7,3 +7,4 @@
 # git commit -m 'message'
 # git push
 # Deployed the page
+# No extensions used
